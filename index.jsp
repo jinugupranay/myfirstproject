@@ -1,1 +1,1 @@
-created index.jsp in developer branch
+created index.jsp file in developer branch
