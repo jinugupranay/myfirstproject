@@ -1,3 +1,5 @@
-README.doc
-added documention
+README.md
+add documentation
+1modification added
+
 
